@@ -4,4 +4,4 @@ A business card app design.
 
 ## Design
 
-![Card](./assets/images/app.jpg?raw=true "App")
+![Card](./assets/images/app.jpg?raw=true&width=300&height=400 "App")
