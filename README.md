@@ -1,6 +1,6 @@
-# mi_card
+# Business Card
 
-A new Flutter project.
+A business card app design.
 
 ## Getting Started
 
